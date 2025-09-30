@@ -10,13 +10,18 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/boula-ayman-3a86581b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/boula-ayman-3a86581b0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="boulaaymanzaher@gmail.com" target="_blank">
+
+  <!-- Gmail (mailto:) -->
+  <a href="mailto:boulaaymanzaher@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="01201366367" target="_blank">
+
+  <!-- WhatsApp (with phone number) -->
+  <a href="https://wa.me/201201366367" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
