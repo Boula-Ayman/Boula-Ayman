@@ -1,13 +1,11 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Boula+Ayman;Front-End+Developer;Building+with+React+%26+Next.js;Passionate+about+UI%2FUX+%26+Web+Apps)](https://git.io/typing-svg)
 
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3ZHo2Y2FvZnMxdXhnZTh6MTlldTluNnF3bTFxZXBlYzFrN3R4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
+<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx3ZHo2Y2FvZnMxdXhnZTh6MTlldTluNnF3bTFxZXBlYzFrN3R4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h2 align="left">hey there 👋</h2>
 
 ###
 
