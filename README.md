@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Boula+Ayman;Front-End+Developer;Building+with+React+%26+Next.js;Passionate+about+UI%2FUX+%26+Web+Apps)](https://git.io/typing-svg)
+
 <!--
 
 **Boula-Ayman/Boula-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
