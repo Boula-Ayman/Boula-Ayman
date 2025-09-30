@@ -31,9 +31,6 @@
 <h3 align="left">👩‍💻  About Me:</h3>
 
 ###
-
-<br clear="both">
-
 <h4 align="left"><>🖥️ Front-End Developer passionate about building modern, responsive, and high-performance web apps.<br>👨‍💻 Skilled in HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js, Tailwind CSS, and Bootstrap.<br>💬 Ask me about front-end development, clean UI design, and building user-friendly interfaces.<br>🚀 Currently exploring advanced features of TypeScript & Next.js and right now I'm learning php and Laravel.</h6>
 
 ###
