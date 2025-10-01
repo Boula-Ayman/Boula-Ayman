@@ -81,7 +81,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Boula-Ayman&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-https://github.com/Boula-Ayman/Boula-Ayman/blob/output/github-contribution-grid-snake.svg
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boula-Ayman/Boula-Ayman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boula-Ayman/Boula-Ayman/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Boula-Ayman/Boula-Ayman/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
