@@ -87,6 +87,8 @@
   <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Boula-Ayman/Boula-Ayman/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Boula-Ayman&label=Profile%20views&color=36BCF7&style=flat" alt="Profile Views" />
+</p>
 
 
