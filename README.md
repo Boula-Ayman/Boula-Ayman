@@ -73,22 +73,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Boula-Ayman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 ####
-### 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Boula-Ayman&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <!-- Portfolio -->
-  <a href="https://github.com/Boula-Ayman/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boula-Ayman&repo=Portfolio&theme=dracula" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Boula-Ayman&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
-  <!-- To-Do App -->
-  <a href="https://github.com/Boula-Ayman/Todo-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boula-Ayman&repo=Todo-App&theme=dracula" />
-  </a>
+![Snake animation](https://github.com/Boula-Ayman/Boula-Ayman/blob/output/github-contribution-grid-snake.svg)
 
-  <!-- Propcut -->
-  <a href="https://github.com/Boula-Ayman/Propcut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Boula-Ayman&repo=Propcut&theme=dracula" />
-  </a>
-</div
+
 
