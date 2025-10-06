@@ -81,8 +81,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Boula-Ayman&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boula-Ayman&label=Profile%20views&color=36BCF7&style=flat" alt="Profile Views" />
-</p>
 
 
