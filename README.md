@@ -7,26 +7,7 @@
 
 
 
-###
 
-<div align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/boula-ayman-3a86581b0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-
-  <!-- Gmail (mailto:) -->
-  <a href="mailto:boulaaymanzaher@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-
-  <!-- WhatsApp (with phone number) -->
-  <a href="https://wa.me/201201366367" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
@@ -65,7 +46,26 @@
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
 </div>
 
+###
 
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/boula-ayman-3a86581b0" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+  <!-- Gmail (mailto:) -->
+  <a href="mailto:boulaaymanzaher@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+
+  <!-- WhatsApp (with phone number) -->
+  <a href="https://wa.me/201201366367" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
 ###
 
 <div align="center">
